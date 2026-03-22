@@ -36,14 +36,6 @@ I am an AI Architect currently at **Optum**, where I design and scale intelligen
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Tejas-Haritsa-vk&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Haritsa-vk&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="languages graph" />
-</p>
-
----
-
 ### 📬 Connect with Me
 - **LinkedIn:** [Tejas Haritsa V K](https://www.linkedin.com/in/tejas-haritsa-v-k-3a958715a/)
 - **Research:** [Google Scholar](https://scholar.google.com/citations?user=nopqLXcAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Tejas-Haritsa-V-K)
